@@ -1,0 +1,3 @@
+jsonlines
+sentence_transformers
+wandb

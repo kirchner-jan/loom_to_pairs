@@ -1,0 +1,7 @@
+*.jsonl
+*.json
+*.pkl
+data/
+model/
+wandb/
+__pycache__/
